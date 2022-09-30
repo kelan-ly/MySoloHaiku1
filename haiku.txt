@@ -1,1 +1,1 @@
-first line of haiku
+second line of haiku
